@@ -11,7 +11,7 @@
 
 </div>
 
- ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" About Me:
+ ### About Me:
 - 🏦 I'm DATA ANALYST 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 - 📝 I regulary post at linkedin for Tips
