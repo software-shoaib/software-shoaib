@@ -1,5 +1,15 @@
+ <style>
+        .about-me {
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
+
+
+
+<p class="about-me" align="center">
 <a href="https://www.linkedin.com/in/shoaib-ahmed-noonari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SHOAIB AHMED" height="24" width="24" />      SHOAIB AHMED </a>&nbsp;
 </p>
 
