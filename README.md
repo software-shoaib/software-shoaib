@@ -12,7 +12,7 @@
 
  ### About Me:
 - 🏦 I'm DATA ANALYST 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 - 📝 I regulary post at linkedin for Tips
 - 💻 I use daily: **Microsoft Power Bi**, **SQL**, **PYTHON**,  **PYTHON Libraries**
 - 📖 I am currently reading Doing **bachelors** **in** **Software** **Engineering** and pursuing my career in **Data** **Analysis**
