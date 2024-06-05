@@ -14,9 +14,9 @@
 - 🏦 I'm DATA ANALYST 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 - 📝 I regulary post at linkedin for Tips
-- 💻 I use daily: **Microsoft Power Bi**, **SQL**, **PYTHON**,  **PYTHON Libraries**
-- 📖 I am currently reading Doing **bachelors** **in** **Software** **Engineering** and pursuing my career in **Data** **Analysis**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💻 I use daily: **Microsoft Power Bi**, **AWS**, **SQL**, **PYTHON**,  **PYTHON Libraries**
+- 📖 I am currently reading Doing **bachelors** **in** **Software** **Engineering** and pursuing my career in **Data** **Analysis** and **AWS Data Engineering**
+- 💬 Talk to me about AWS Engineering, Data Analytics and python (these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
