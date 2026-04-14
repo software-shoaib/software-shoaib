@@ -11,7 +11,7 @@
 </div>
 
  ### About Me:
-- 🏦 I'm Data Professional 
+- 🏦 I'm **Data Professional** 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 - 📝 I regulary post at linkedin for Tips
 - 💻 I work daily: **Microsoft Power Bi**, **AWS**, **SQL**, **Machine Learning**, **Artificial Neural Network**, **Deep Learning**
