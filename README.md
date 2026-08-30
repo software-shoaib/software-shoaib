@@ -27,6 +27,18 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
 </p>
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=software-shoaib&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=software-shoaib&layout=compact&theme=radical" width="48%" />
+</p>
+
+### 🔥 Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=software-shoaib&theme=radical" />
+</p>
+
+
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
