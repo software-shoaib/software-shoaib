@@ -11,12 +11,12 @@
 </div>
 
  ### About Me:
-- 🏦 I'm **Data Professional** 
+- 🏦 I'm **AI Automation Engineer** 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 - 📝 I regulary post at linkedin for Tips
 - 💻 I work daily: **Microsoft Power Bi**, **AWS**, **SQL**, **Machine Learning**, **Artificial Neural Network**, **Deep Learning**
 - 📖 I am currently Doing **Masters** **in** **Data** **Science** havig background of  **BS.Software Engineering** and pursuing my career in **Data** **Science**.
-- 💬 Talk to me about AWS, Data Science and python (these are not any kind of insect or animals), silicon valley & startups
+- 💬 Talk to me about AWS, Data Science, AI Automations and python (these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
