@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=software-shoaib&show_icons=true&theme=radical" width="48%" />
+  <img src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=software-shoaib)](https://github.com/stats-organization/github-stats-extended)" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=software-shoaib&layout=compact&theme=radical" width="48%" />
 </p>
 
